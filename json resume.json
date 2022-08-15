@@ -1,0 +1,62 @@
+{
+    "basics": {
+      "name": "swathi ravi",
+      "email": "swathiit01@gmail.com",
+      "phone": "6238006085.",
+      "degree": "Btech-IT",
+      "summary": "full stack developer",
+      "location": {
+        "address": "48A,voc street",
+        "postalCode": "624601",
+        "city": "Palani",
+        "country": "India",
+        "region": "tamilnadu"
+      },
+      "profiles": [
+        {
+          "network": "facebook",
+          "username": "swathi sai",
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "Barclays shared services",
+        "position": "process advisor",
+        "startDate": "2017-04-28",
+        "endDate": "2019-02-14",
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "SSCET",
+        "area": "IT",
+        "studyType": "regular",
+        "startDate": "2011-03-15",
+        "endDate": "2015-03-14",
+        "gpa": "70",
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "medium",
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "english,tamil,malayalam",
+        "fluency": "good"
+      }
+    ],
+    "interests": [
+      {
+        "name": "cooking",
+        ]
+      }
+    ]
+  }
+  @notsonoobie
+  
